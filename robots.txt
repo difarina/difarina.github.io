@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://difarina.github.io/sitemap_AKRvU.txt.gz
+Sitemap: https://difarina.github.io/sitemap_HyB.txt.gz
+Sitemap: https://difarina.github.io/sitemap_Riwse.txt.gz
+Sitemap: https://difarina.github.io/sitemap_THMdb.txt.gz
+Sitemap: https://difarina.github.io/sitemap_VEtA.txt.gz
+Sitemap: https://difarina.github.io/sitemap_ZcRa.txt.gz
+Sitemap: https://difarina.github.io/sitemap_ZjS.txt.gz
+Sitemap: https://difarina.github.io/sitemap_gFshf.txt.gz
+Sitemap: https://difarina.github.io/sitemap_qzEl.txt.gz
+Sitemap: https://difarina.github.io/sitemap_wHdKb.txt.gz
+Sitemap: https://difarina.github.io/sitemap_wUZe.txt.gz
